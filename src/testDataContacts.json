@@ -1,0 +1,280 @@
+[{
+    "gender": "female",
+    "name": {
+    "title": "Miss",
+    "first": "Adelina",
+    "last": "Molund"
+    },
+    "location": {
+    "street": {
+    "number": 2789,
+    "name": "Asalveien"
+    },
+    "city": "Haugland",
+    "state": "Trøndelag",
+    "country": "Norway",
+    "postcode": "7231",
+    "coordinates": {
+    "latitude": "54.3527",
+    "longitude": "91.8259"
+    },
+    "timezone": {
+    "offset": "-5:00",
+    "description": "Eastern Time (US & Canada), Bogota, Lima"
+    }
+    },
+    "email": "adelina.molund@example.com",
+    "login": {
+    "uuid": "0843404d-878d-4a04-ac87-95adf87a6155",
+    "username": "heavymeercat434",
+    "password": "lover1",
+    "salt": "EF1Mcq6U",
+    "md5": "23e63ce54f860c4cc7cde277fb1c64e6",
+    "sha1": "531439eba8bba500f1ddfefb156c3e1befd2b0e7",
+    "sha256": "03dbf3e364b7ac6a1bb87e8b6e203689586d5cffc3b31f2978e0c5a14cdb0974"
+    },
+    "dob": {
+    "date": "1978-12-21T03:59:46.114Z",
+    "age": 43
+    },
+    "registered": {
+    "date": "2017-02-18T12:19:22.053Z",
+    "age": 4
+    },
+    "phone": "64640337",
+    "cell": "95907208",
+    "id": {
+    "name": "FN",
+    "value": "21127819006"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/94.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+    },
+    "nat": "NO"
+    },
+    {
+    "gender": "female",
+    "name": {
+    "title": "Miss",
+    "first": "Inci",
+    "last": "Ebben"
+    },
+    "location": {
+    "street": {
+    "number": 1973,
+    "name": "Buitenberg"
+    },
+    "city": "Hilvarenbeek",
+    "state": "Overijssel",
+    "country": "Netherlands",
+    "postcode": 45926,
+    "coordinates": {
+    "latitude": "39.3742",
+    "longitude": "60.8771"
+    },
+    "timezone": {
+    "offset": "+9:30",
+    "description": "Adelaide, Darwin"
+    }
+    },
+    "email": "inci.ebben@example.com",
+    "login": {
+    "uuid": "8e0c40d9-cb96-432e-b35b-6c31523d5d2f",
+    "username": "blackzebra947",
+    "password": "summer",
+    "salt": "Vmhtjo1v",
+    "md5": "245d2ff00c003765d0a90b301287750c",
+    "sha1": "e0196aaa08c00a57beec435b56d5a01bfd779a85",
+    "sha256": "7004419511eebace4c114f8400e7f1216a92fcf3c68295502be0dfcb8fa45d40"
+    },
+    "dob": {
+    "date": "1959-02-17T05:40:14.646Z",
+    "age": 62
+    },
+    "registered": {
+    "date": "2003-11-02T11:08:28.770Z",
+    "age": 18
+    },
+    "phone": "(098)-579-0581",
+    "cell": "(912)-242-9396",
+    "id": {
+    "name": "BSN",
+    "value": "43514799"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+    },
+    "nat": "NL"
+    },
+    {
+    "gender": "female",
+    "name": {
+    "title": "Mrs",
+    "first": "Laura",
+    "last": "Olsen"
+    },
+    "location": {
+    "street": {
+    "number": 5330,
+    "name": "Stenager"
+    },
+    "city": "Nykøbing F",
+    "state": "Hovedstaden",
+    "country": "Denmark",
+    "postcode": 51122,
+    "coordinates": {
+    "latitude": "79.5166",
+    "longitude": "-83.6469"
+    },
+    "timezone": {
+    "offset": "-5:00",
+    "description": "Eastern Time (US & Canada), Bogota, Lima"
+    }
+    },
+    "email": "laura.olsen@example.com",
+    "login": {
+    "uuid": "171fc8ce-09d1-4f33-874e-5ea75926cff4",
+    "username": "bigbird782",
+    "password": "lucifer",
+    "salt": "9NIn2WWC",
+    "md5": "40db8c2dc39976d666bd1417cf4973c1",
+    "sha1": "d23ede926aefec12ff3167c08e9e048bd1fd88e7",
+    "sha256": "b157461ccbe9dc7f5f2daf15b2cdb0481e2c3ea514b1d97bf46455047f7eede3"
+    },
+    "dob": {
+    "date": "1988-02-28T00:41:48.556Z",
+    "age": 33
+    },
+    "registered": {
+    "date": "2009-06-19T12:00:00.478Z",
+    "age": 12
+    },
+    "phone": "90142385",
+    "cell": "95263106",
+    "id": {
+    "name": "CPR",
+    "value": "280288-2258"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+    },
+    "nat": "DK"
+    },
+    {
+    "gender": "female",
+    "name": {
+    "title": "Mrs",
+    "first": "Ella",
+    "last": "Peterson"
+    },
+    "location": {
+    "street": {
+    "number": 5967,
+    "name": "Park Avenue"
+    },
+    "city": "Plymouth",
+    "state": "Humberside",
+    "country": "United Kingdom",
+    "postcode": "XP7 8WL",
+    "coordinates": {
+    "latitude": "40.2442",
+    "longitude": "2.6297"
+    },
+    "timezone": {
+    "offset": "-3:30",
+    "description": "Newfoundland"
+    }
+    },
+    "email": "ella.peterson@example.com",
+    "login": {
+    "uuid": "a538c837-fa83-4dcc-b810-cc61e02635d9",
+    "username": "goldenkoala827",
+    "password": "hammond",
+    "salt": "jeqvyezF",
+    "md5": "551e8cfb5ad68cc89b4fb0bb779d1fe4",
+    "sha1": "78a3b7b3017081b67c53e5ea1ce3941c6e97a989",
+    "sha256": "a05f11ffb1738a4879163c7effae8091f04797e465579ad88720872cb75a1eb8"
+    },
+    "dob": {
+    "date": "1958-06-24T07:13:52.403Z",
+    "age": 63
+    },
+    "registered": {
+    "date": "2003-11-03T03:03:07.085Z",
+    "age": 18
+    },
+    "phone": "015395 96588",
+    "cell": "0762-027-412",
+    "id": {
+    "name": "NINO",
+    "value": "ME 18 79 13 D"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/women/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+    },
+    "nat": "GB"
+    },
+    {
+    "gender": "male",
+    "name": {
+    "title": "Mr",
+    "first": "Corey",
+    "last": "George"
+    },
+    "location": {
+    "street": {
+    "number": 8324,
+    "name": "Fairview St"
+    },
+    "city": "Temecula",
+    "state": "South Dakota",
+    "country": "United States",
+    "postcode": 88491,
+    "coordinates": {
+    "latitude": "86.0118",
+    "longitude": "27.0914"
+    },
+    "timezone": {
+    "offset": "-3:00",
+    "description": "Brazil, Buenos Aires, Georgetown"
+    }
+    },
+    "email": "corey.george@example.com",
+    "login": {
+    "uuid": "3a611933-8d9f-45b7-999a-8f2145616864",
+    "username": "silverdog478",
+    "password": "content",
+    "salt": "CQGTgRJl",
+    "md5": "e09d2fa39d1f1b69034a5d7d76297f3c",
+    "sha1": "07a068d1caec5db482593fe848947ddefc41be9b",
+    "sha256": "d79bf44c7d6e2e457ea0f27f96039e409a121f094a94d6509338d97b88502090"
+    },
+    "dob": {
+    "date": "1986-12-16T00:13:01.943Z",
+    "age": 35
+    },
+    "registered": {
+    "date": "2011-08-08T02:06:24.764Z",
+    "age": 10
+    },
+    "phone": "(555)-697-8060",
+    "cell": "(340)-646-1013",
+    "id": {
+    "name": "SSN",
+    "value": "806-39-1468"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+    },
+    "nat": "US"
+    }]
