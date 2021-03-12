@@ -1,10 +1,9 @@
 import "./style.css";
 
 function SearchResults({ contact }) {
-    // console.log("contact in search results", contact)
     return (
         <div className="col">
-            <div className="card .h-100 mb-5" key={contact.uuid}>
+            <div className="card .h-100 mb-5 myCard" key={contact.uuid}>
                 <img src={contact.picture.large} className="card-img-top" alt={contact.name.first + " " + contact.name.last} />
                 <div className="card-body">
                     <h5 className="card-title">{contact.name.first + " " + contact.name.last}</h5>

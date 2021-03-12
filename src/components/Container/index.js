@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import API from "../../utils/API";
 import SearchForm from "../SearchForm";
 import SearchResults from "../SearchResults";
-// import Card from "../Card";
 
 class Container extends Component {
 
