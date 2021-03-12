@@ -37,7 +37,7 @@
   [**Vdex**](https://v-dex.herokuapp.com/) </br>
   
   ## 📸 <a id='screenshot'></a> Screenshot
-  ![screenshot](Add a screenshot here.) </br>
+  ![screenshot](./public/Vdex.gif) </br>
 
   ## 🔍 <a id='future-development'></a> Future Development
   This is a proof of concept for an employee directory more than a useable app. To make this useable, there would need to be the entire backend built, with api calls in the client. I need to add the functionality to add, delete, update, and create contacts. I would also have to add a user schema to keep contacts specific to one user. Lastly, I would need to create and connect to a database. That would complete the full-stack.  
