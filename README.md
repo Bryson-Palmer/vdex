@@ -28,10 +28,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Javascript-yellow" />
-  <img src="https://img.shields.io/badge/HTML-orange" />
   <img src="https://img.shields.io/badge/Boostrap-informational" />
-  <img src="https://img.shields.io/badge/-node.js-9cf" />
-  <img src="https://img.shields.io/badge/-inquirer-greenBright" >
+  <img src="https://img.shields.io/badge/-React-greenBright" >
 </p>
 
   ## 🔗 <a id='links'></a> Links
