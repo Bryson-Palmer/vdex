@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+## <a id='back-to-top' > </a>
+  # Vdex   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <p>
+    <img src="https://img.shields.io/github/languages/top/Bryson-Palmer/vdex"  />
+    <img src="https://img.shields.io/github/repo-size/Bryson-Palmer/vdex" />
+    <img src="https://img.shields.io/github/issues/Bryson-Palmer/vdex" />
+    <img src="https://img.shields.io/github/last-commit/Bryson-Palmer/vdex" >
+</p>
+<p>
+    <a href="https://github.com/Bryson-Palmer">
+        <img alt="Github: undefined" src="https://img.shields.io/github/followers/undefined ?style=social" target="_blank" />
+    </a>
+</p>
 
-## Available Scripts
+  A virtual index to help you manage your professional contacts for easy access anywhere. Get your entire directory all at once or search Vdex by a contact's first name, last name, or country. You can also sort alphabetically by a first name or last name. This React app is utilizing components, state, and responds to user events.
 
-In the project directory, you can run:
+  
 
-### `npm start`
+  ## Table of Contents
+  [Links](#links) </br>
+  [Screenshot](#screenshot) </br>
+  [Future Development](#future-development) </br>
+  [License](#license) </br>
+  [Questions](#questions) </br>
+  
+  ## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p>
+  <img src="https://img.shields.io/badge/Javascript-yellow" />
+  <img src="https://img.shields.io/badge/HTML-orange" />
+  <img src="https://img.shields.io/badge/Boostrap-informational" />
+  <img src="https://img.shields.io/badge/-node.js-9cf" />
+  <img src="https://img.shields.io/badge/-inquirer-greenBright" >
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  ## 🔗 <a id='links'></a> Links
+  [**GitHub**](https://github.com/Bryson-Palmer/vdex) </br>
+  [**Vdex**](https://v-dex.herokuapp.com/) </br>
+  
+  ## 📸 <a id='screenshot'></a> Screenshot
+  ![screenshot](Add a screenshot here.) </br>
 
-### `npm test`
+  ## 🔍 <a id='future-development'></a> Future Development
+  This is a proof of concept for an employee directory more than a useable app. To make this useable, there would need to be the entire backend built, with api calls in the client. I need to add the functionality to add, delete, update, and create contacts. I would also have to add a user schema to keep contacts specific to one user. Lastly, I would need to create and connect to a database. That would complete the full-stack.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ## 🏆 <a id='license'></a> License
+  MIT License
 
-### `npm run build`
+  Copyright 2021   Bryson Palmer
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  ```
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  ## 📡 <a id='questions'></a> Questions?
+  If you have any questions or would like to follow my development, please contact me at: </br>
+  * My GitHub: [Bryson-Palmer](https://github.com/Bryson-Palmer) </br>
+  * My Email: [brysonpalmer@gmail.com](mailto:brysonpalmer@gmail.com) </br>
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  [Back to Top](#back-to-top)
